@@ -68,4 +68,4 @@ The utility-first CSS framework used for styling the application.
 The build tool used for bundling and serving the application during development.
 
 ## Project deployed Link:
- https://samir-mulla.github.io/UI-Task/
+ <!-- https://samir-mulla.github.io/UI-Task/ -->
